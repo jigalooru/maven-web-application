@@ -23,18 +23,17 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions Pvt Ltd, 
+		Software Solutions Pvt Ltd, 
 		SGR Dental college Road,
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
-		+91-9980923226
-		+91-9014996877
+		
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
